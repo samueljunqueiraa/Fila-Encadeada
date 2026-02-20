@@ -34,10 +34,12 @@ O projeto inclui as operações fundamentais de uma fila:
 
 1. Certifique-se de ter o **JDK 11 ou superior** instalado.
 2. Clone o repositório:
+   
    ```bash
    git clone [https://github.com/samueljunqueiraa/Fila-Encadeada.git](https://github.com/samueljunqueiraa/Fila-Encadeada.git)
    ```
-3. Abra o projeto em sua IDE de preferência (recomendado NetBeans ou VS Code com extensões Java).
-4. Localize a classe principal (provavelmente dentro de src) e execute o arquivo.
+   
+4. Abra o projeto em sua IDE de preferência (recomendado NetBeans ou VS Code com extensões Java).
+5. Localize a classe principal (provavelmente dentro de src) e execute o arquivo.
 
 ### Desenvolvido por Samuel Junqueira 
