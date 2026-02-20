@@ -40,4 +40,4 @@ O projeto inclui as operações fundamentais de uma fila:
 3. Abra o projeto em sua IDE de preferência (recomendado NetBeans ou VS Code com extensões Java).
 4. Localize a classe principal (provavelmente dentro de src) e execute o arquivo.
 
-## Desenvolvido por Samuel Junqueira 
+### Desenvolvido por Samuel Junqueira 
